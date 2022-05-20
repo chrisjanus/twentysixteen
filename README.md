@@ -1,2 +1,2 @@
 # twentysixteen
-WP theme testing (TWENTY-SIXTEEN TESTING)
+WP theme testing
