@@ -5,3 +5,5 @@ WP theme testing
 - functions.php
 - style.css
 - index.php
+- screenshot.png
+- sidebar.php
